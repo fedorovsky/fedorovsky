@@ -1,4 +1,4 @@
-### Hello there, I'm Anton Fedorovskyi
+# Hello there, I'm Anton Fedorovskyi.
 
 [![Gmail Badge](https://img.shields.io/badge/-anton.fedorovsky@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anton.fedorovsky@gmail.com)](mailto:anton.fedorovsky@gmail.com)
   
