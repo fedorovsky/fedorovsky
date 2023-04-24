@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Anton Fedorovskyi.
+# Hi everyone 👋 My name is Anton Fedorovskyi.
 ### I'm a front-end developer. 
   
 ## :star: Github Stats
